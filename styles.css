@@ -1,0 +1,23 @@
+/*this helped me align my content along the main axis*/
+a {
+  display: flex;
+  justify-content: flex-end;
+  color: #ffffff;
+}
+
+li {
+  list-style-type: none;
+  font-size: 40px;
+}
+/*this helped me shift my recent photo from the margin*/
+img {
+  margin-left: 0;
+}
+
+figure {
+  margin-left: 0;
+}
+/* this set the background color for my page*/
+body {
+  background-color: rgba(234, 107, 137, 0.431);
+}
